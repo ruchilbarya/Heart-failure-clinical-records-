@@ -5,5 +5,5 @@ The goal of this analysis was to predict chances of survival when a patient has 
 
 The main components of this project are: Data Screening, Assumptions check for regression, Outliers Removal, Exploratory data analysis, Two Models creation based on Logistic and Linear Regression , all focused on data from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records).  
 
-The Statistical Analysis was done in R.
+The Statistical Analysis was done in R. The code can be find in the attached *HeartFailureAnalysis.rmd* file. Alternatively, the code along with results can be found at [Rpubs](https://rpubs.com/Ruchil/778111) as well.
 
